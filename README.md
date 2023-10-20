@@ -1,1 +1,1 @@
-# TALLER-3_Anal-tica
+# TALLER-3_Analitica
