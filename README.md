@@ -1,1 +1,2 @@
-# TALLER-3_Analitica
+# TALLER 3 de Analitica
+##Karen Marcela Pérez Castilla 
